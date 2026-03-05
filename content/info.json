@@ -1,18 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Suprimentos com entrega rápida para todo o Brasil",
+    "title": "Sua impressão não pode parar."
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Pague via PIX e ganhe 5% de desconto",
+    "title": "Parcele em 3x sem juros e receba onde estiver."
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
