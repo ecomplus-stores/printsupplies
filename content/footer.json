@@ -1,20 +1,42 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Print Supplies: Sua Loja Online de Cartuchos e Toners",
+    "text": "Suprimentos para todo o Brasil: Pronta entrega em até 3x sem juros."
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "list_pages": false,
+    "title": "MAIS INFORMAÇÕES",
+    "list": [
+      {
+        "text": "CONTATOS/ ENDEREÇO"
+      },
+      {
+        "text": "FORMAS DE ENVIO"
+      },
+      {
+        "text": "FORMAS DE PAGAMENTO"
+      },
+      {
+        "text": "COMO COMPRAR"
+      },
+      {
+        "text": " Segurança & Privacidade"
+      },
+      {
+        "text": " Atacado - Revenda"
+      },
+      {
+        "text": "Trocas & Devoluções"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "FALE CONOSCO",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -32,10 +54,10 @@
     "pix": true,
     "visa": true,
     "mastercard": true,
-    "elo": true,
-    "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "elo": false,
+    "amex": false,
+    "hipercard": false,
+    "boleto": false
   },
   "credits": ""
 }
