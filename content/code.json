@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "/*pc*/@media (min-width: 601px){\n    .header__logo {\n        max-height: 150px;\n      max-width: 300px;}\n    .header {\n      background: #000000;}\n  .header__buttons .btn {\n    box-shadow: none;\n    color: #ffffff;}\n  .badge-primary {\n    background-color: #fb130e;\n    color: var(--primary-yiq);border-radius:30px;\n  }\n  .header__search-btn {color: #000000;}\n  .top-bar__countdown {\n    background: #fb130e;}\n  .top-bar {\n    background: #f8f9fa;}\n  .top-bar__nav {\n    color: #000000;\n  \n}}\n\n /*mobile*/@media (max-width: 600px) {\n}}\n /*responsivo*/\n}}",
   "html_head": "",
   "html_body": ""
 }
