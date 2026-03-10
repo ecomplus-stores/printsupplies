@@ -1,6 +1,32 @@
 {
-  "title": "Dúvidas frequentes",
-  "meta_title": "Dúvidas frequentes",
-  "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "title": "Dúvidas Frequentes – Print Supplies",
+  "meta_title": "Como Comprar e Dúvidas Frequentes | Print Supplies",
+  "meta_description": "Tire suas dúvidas sobre como adquirir toners e cilindros de alta performance na Print Supplies. Informações sobre frete, pagamentos e nossa garantia de 90 dias.",
+  "body": "Todos os nossos suprimentos de impressão são produzidos sob rigorosos controles técnicos para garantir performance e rendimento profissionais. Mantemos nossa página sempre atualizada para que você encontre o toner ou cilindro exato para o seu equipamento. Fornecemos informações técnicas precisas sobre compatibilidade, rendimento e tecnologia para que sua empresa escolha a solução com o melhor custo-benefício. Se precisar de detalhes técnicos adicionais ou fotos reais dos produtos, teremos o prazer de atendê-lo via e-mail ou WhatsApp.\n\n<!--StartFragment-->\n\n#### **COMO COMPRAR?**\n\nComprar na **Print Supplies** é simples, rápido e seguro:\n\n1. **Navegue e Escolha:** Utilize nossa busca por modelo de impressora ou código do toner. Clique em \"Adicionar ao Carrinho\" ou no botão \"Comprar\".\n2. **Carrinho de Compras:** Após selecionar todos os suprimentos necessários, clique no ícone do carrinho e selecione \"Finalizar Compra\".\n3. **Entrega:** Informe seu CEP para definir as opções de frete.\n4. **Dados de Envio:** Confirme seus dados com atenção. Caso haja erros no endereço ou falta de numeração, o custo de reenvio será de responsabilidade do cliente.\n5. **Pagamento:** Escolha a forma de pagamento desejada e finalize o pedido.\n6. **Pronto!** Seu pedido entrará em processamento técnico para postagem imediata.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\n#### **QUAL É A FORMA E O PRAZO DE ENTREGA?**\n\nO prazo depende do CEP de destino e da modalidade escolhida, sendo informado na finalização do pedido. Trabalhamos com:\n\n* **Correios:** Opções de PAC e SEDEX.\n* **Transportadoras:** Ideal para volumes maiores e envios corporativos de alta agilidade.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\n#### **QUAIS SÃO AS FORMAS DE PAGAMENTO?**\n\nOferecemos diversas facilidades para sua empresa:\n\n* **Cartão de Crédito ou Boleto Bancário**\n* **Depósito Bancário / PIX:** Instruções detalhadas serão enviadas durante o checkout e por e-mail.\n* **Faturamento Corporativo:** Para condições especiais de faturamento B2B, entre em contato conosco via WhatsApp.\n\n<!--EndFragment-->\n\n\n\n<!--StartFragment-->\n\n#### **COMO ACOMPANHAR O ANDAMENTO DO PEDIDO?**\n\nVocê receberá atualizações automáticas por e-mail, mas também pode acompanhar o status e o código de rastreio diretamente em nossa área do cliente.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\n#### **TROCAS E DEVOLUÇÕES**\n\nGarantimos a qualidade de nossos produtos com garantia de **90 dias para defeitos de fabricação**.\n\n* **Comunicação:** Ocorrências de troca ou devolução devem ser enviadas por e-mail com o assunto \"TROCA\" ou \"DEVOLUÇÃO\", incluindo os dados da compra.\n* **Prazo:** O contato deve ser feito em até 48 horas após o recebimento em caso de avarias de transporte ou desacordo com o pedido.\n* **Embalagem:** O produto deve ser devolvido na embalagem original e com os devidos cuidados. Produtos devolvidos sem proteção e que chegarem avariados não terão a troca efetuada.\n* **IMPORTANTE:** Recuse o recebimento se a embalagem estiver violada ou avariada.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\n#### **A PRINT SUPPLIES ATENDE TODO O BRASIL?**\n\nSim, enviamos nossos suprimentos para todos os estados. Para grandes volumes ou licitações, consulte nosso time comercial.\n\n#### **COMO FUNCIONA O ATACADO E OUTSOURCING?**\n\nPossuímos condições especiais para revendas e empresas de Outsourcing de Impressão.\n\n* **[WHATSAPP ](https://web.whatsapp.com/send?phone=%2B555511970797735)**\n\n- - -\n\n**Ainda tem dúvidas?** Entre em contato com nossa equipe de suporte técnico. Será um prazer ajudar sua empresa a imprimir com mais inteligência e economia.\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "title": "Não apenas imprima, impressione. Garanta nitidez absoluta e o melhor rendimento do mercado com a Print Supplies.",
+      "link": "https://printsupplies.web.app/"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
