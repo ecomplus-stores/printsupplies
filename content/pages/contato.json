@@ -1,6 +1,27 @@
 {
-  "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "title": "Print Supplies: Tecnologia e Inteligência em Impressão Corporativa",
+  "meta_title": "Sobre a Print Supplies | Líder em Suprimentos de Impressão B2B",
+  "meta_description": "Conheça a Print Supplies: mais de 15 anos oferecendo toners remanufaturados e compatíveis com qualidade de original e economia real para sua empresa.",
+  "body": "<!--StartFragment-->\n\nHá mais de 15 anos, a **Print Supplies** nasceu de um sonho empreendedor: provar que é possível unir alta performance tecnológica, sustentabilidade e redução de custos operacionais. Nossa trajetória é marcada pela especialização no fornecimento de cartuchos remanufaturados e compatíveis que entregam a mesma qualidade e fidelidade dos produtos originais, mas com um custo significativamente mais competitivo.\n\nHoje, somos referência no mercado nacional, atendendo com agilidade desde revendedores especializados até grandes clientes corporativos que buscam um parceiro estratégico para seus centros de impressão.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\n#### **Nossos Pilares**\n\n**01. Visão** Ser a empresa líder e a primeira escolha do mercado B2B, reconhecida pela inovação constante, agilidade logística e pelo fornecimento de produtos de altíssima precisão técnica.\n\n**02. Missão** Transformar o mercado de impressão oferecendo soluções inteligentes em cartuchos compatíveis e remanufaturados. Nosso compromisso é atender aos requerimentos técnicos mais exigentes, estabelecendo parcerias sólidas com fornecedores globais e garantindo um nível superior de serviço aos nossos clientes.\n\n<!--EndFragment-->\n\n\n\n<!--StartFragment-->\n\n#### **Por que escolher a Print Supplies?**\n\nNossos objetivos vão além da venda de insumos. Trabalhamos para gerar valor real ao seu negócio:\n\n* **Portfólio Estratégico:** Desenvolvemos produtos alinhados às necessidades reais do seu parque de impressão.\n* **Sustentabilidade:** Priorizamos parcerias e processos que respeitem o meio ambiente, promovendo a economia circular através da remanufatura de alta qualidade.\n* **Excelência Garantida:** Todos os nossos produtos passam por rigorosos testes laboratoriais para assegurar rendimento e proteção ao seu equipamento.\n* **Respeito Humano e Profissional:** Valorizamos cada parceria, tratando clientes e colaboradores com a transparência e o respeito que uma relação de longo prazo exige.\n\n<!--EndFragment-->\n\n<!--StartFragment-->\n\n#### **Sede e Atendimento**\n\nLocalizada estrategicamente em **Cotia – SP**, nossa estrutura está pronta para atender demandas de todo o Brasil com eficiência e suporte técnico especializado.\n\n> **Print Supplies: Soluções de Impressão B2B. Custo-Benefício Superior.**\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.908274143365!2d-46.854405525019274!3d-23.607622363292645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfab24ae6abfb7%3A0xddb668e50b2d5a14!2sPRINT%20SUPPLIES!5e0!3m2!1spt-BR!2sus!4v1773169079041!5m2!1spt-BR!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
