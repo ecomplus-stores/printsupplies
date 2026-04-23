@@ -1,6 +1,13 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/impressoras?Impressoras",
+      "/cartuchos-de-toner?Cartuchos de Toner",
+      "/cartuchos-de-tinta?Cartuchos de Tinta",
+      "/recarga-de-impressora?Recarga e Insumos",
+      "/pecas-e-suprimentos?Peças e Fotocondutores",
+      "/busque-por-cor?Busque por Cor"
+    ],
     "random": 6,
     "full_width": true
   },
