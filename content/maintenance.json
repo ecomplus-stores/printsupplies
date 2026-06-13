@@ -1,6 +1,6 @@
 {
-  "title": "Loja em manutenção",
-  "body": "*Voltamos em breve*",
-  "active": false,
-  "unlock_key": ""
+  "title": "Loja nova em breve ",
+  "body": "*Voltamos em breve*\n\n*[E﻿nquanto isso fale conosco ](https://printsupplies.com.br/)*",
+  "active": true,
+  "unlock_key": "print"
 }
