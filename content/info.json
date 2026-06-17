@@ -3,13 +3,13 @@
     "show": true,
     "text": "Suprimentos com entrega rápida para todo o Brasil",
     "title": "Sua impressão não pode parar.",
-    "link": "https://www.loja.printsupplies.com.br/"
+    "link": "https://www.loja.printsupplies.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "Pague via PIX e ganhe 5% de desconto",
     "title": "Parcele em 3x sem juros e receba onde estiver.",
-    "link": "https://www.loja.printsupplies.com.br/"
+    "link": "https://www.loja.printsupplies.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
