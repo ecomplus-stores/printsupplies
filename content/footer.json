@@ -4,36 +4,32 @@
     "text": "Suprimentos para todo o Brasil: Pronta entrega em até 3x sem juros."
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "MAIS INFORMAÇÕES",
     "list": [
       {
-        "text": "CONTATOS/ ENDEREÇO",
+        "text": "Sobre Nós ",
         "url": "https://www.loja.printsupplies.com.br/pages/contato"
       },
       {
-        "text": "FORMAS DE ENVIO",
-        "url": "https://www.loja.printsupplies.com.br"
+        "text": "Formas de Envio",
+        "url": "https://www.loja.printsupplies.com.br/pages/entrega"
       },
       {
-        "text": "FORMAS DE PAGAMENTO",
-        "url": "https://www.loja.printsupplies.com.br"
+        "text": "Formas de Pagamento",
+        "url": "https://www.loja.printsupplies.com.br/pages/pagamentos"
       },
       {
-        "text": "COMO COMPRAR",
+        "text": "Como Comprar",
         "url": "https://www.loja.printsupplies.com.br/pages/faq"
       },
       {
         "text": " Segurança & Privacidade",
-        "url": "https://www.loja.printsupplies.com.br/pages"
-      },
-      {
-        "text": " Atacado - Revenda",
-        "url": "https://www.loja.printsupplies.com.br/pages"
+        "url": "https://www.loja.printsupplies.com.br/pages/privacidade"
       },
       {
         "text": "Trocas & Devoluções",
-        "url": "https://www.loja.printsupplies.com.br/pages"
+        "url": "https://www.loja.printsupplies.com.br/pages/trocas"
       }
     ]
   },
