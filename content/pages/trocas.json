@@ -2,5 +2,25 @@
   "title": "Trocas e devoluções",
   "meta_title": "Trocas e devoluções",
   "meta_description": "Trocas e devoluções",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\n# Política de Trocas e Devoluções — Print Supplies\n\nNa **Print Supplies**, buscamos sempre a total satisfação de nossos clientes com nossos produtos e insumos de alta qualidade. Nossa Política de Trocas e Devoluções é fundamentada no **Código de Defesa do Consumidor (CDC)**, garantindo uma experiência de compra segura, transparente e justa.\n\n## 1. Direito de Arrependimento (Devolução por Desistência)\n\nDe acordo com o Artigo 49 do Código de Defesa do Consumidor, nas compras realizadas pela internet, o consumidor tem o direito de desistir da compra por arrependimento.\n\n* **Qual é o prazo para exercer o direito de arrependimento?** Você tem o prazo legal de até **7 (sete) dias corridos**, a contar da data de recebimento do produto no endereço cadastrado, para solicitar a devolução e o reembolso integral dos valores pagos.\n* **Condições do produto:** O item devolvido deve estar em sua embalagem original, sem indícios de uso ou desgaste, acompanhado de todos os seus acessórios e da nota fiscal (DANFE).\n* **Como solicitar?** O contato inicial deve ser formalizado obrigatoriamente por e-mail em até 48 horas após a decisão, indicando no assunto **\"DEVOLUÇÃO POR ARREPENDIMENTO\"** junto com os dados da compra e número do pedido.\n\n## 2. Troca por Defeito ou Produto em Desacordo\n\nTrabalhamos com rigoroso controle de qualidade, mas caso você receba um produto com defeito de fabricação ou em desacordo com as especificações do seu pedido, asseguramos o seu direito de troca com base nos Artigos 18 e 26 do CDC.\n\n* **Qual é o prazo para reclamar de um defeito?** O prazo legal para a notificação de vícios ou defeitos aparentes é de até **30 (trinta) dias** para produtos não duráveis e **90 (noventa) dias** para produtos duráveis, contados a partir do recebimento da mercadoria.\n* **Procedimento de Análise:** Após o recebimento do item em nosso centro de distribuição, a Print Supplies realizará uma avaliação técnica em até 30 dias. Confirmado o defeito e a ausência de mau uso, o cliente poderá optar por:\n\n  1. Substituição do produto por outro da mesma espécie em perfeitas condições;\n  2. Restituição imediata da quantia paga, monetariamente atualizada;\n  3. Abatimento proporcional do preço em outras peças do site.\n\n## 3. Regras para o Envio da Mercadoria Devolvida\n\nPara que o processo de logística reversa ocorra com sucesso e segurança jurídica, as seguintes regras devem ser estritamente cumpridas:\n\n* **Embalagem de Retorno:** A devolução deve ser feita utilizando-se a **mesma embalagem original** e os mesmos cuidados de proteção (como plástico bolha e calços) com que o produto foi enviado. Se o produto for reenviado sem o zelo necessário e chegar quebrado ou avariado em nossa sede, a troca ou devolução poderá ser recusada por culpa exclusiva do consumidor.\n* **Custos de Frete:** No caso de direito de arrependimento ou produto com defeito comprovado dentro dos prazos legais, os custos de frete da logística reversa são integralmente cobertos pela Print Supplies.\n\n> **Atenção aos Dados de Entrega:** Verifique com máxima atenção os dados de entrega no checkout. Caso o produto retorne à nossa central devido a endereços incorretos, numerações faltantes ou ausência do destinatário após as tentativas de entrega das transportadoras, os custos de reenvio logístico serão de responsabilidade do cliente.\n\n## 4. O que fazer em caso de Embalagem Avariada no Recebimento?\n\n> 🚨 **IMPORTANTE:** Recuse o recebimento da mercadoria imediatamente se constatar que a embalagem externa está rasgada, molhada, amassada, violada ou se o produto interno estiver visivelmente danificado em desacordo com o pedido. Faça uma ressalva no documento de entrega dos Correios ou da Transportadora.\n\nSe você notar o problema apenas após abrir o pacote, tire fotos ou grave um vídeo do estado da caixa e do produto e entre em contato conosco em até **48 horas úteis** para iniciarmos o processo de acionamento do seguro de carga e substituição.\n\n## 5. Como Iniciar o Processo (Canais de Atendimento)\n\nPara registrar qualquer ocorrência relacionada a trocas e devoluções, utilize o nosso canal oficial de suporte pós-venda:\n\n* 📧 **E-mail de Suporte:** vendas.site@printsupplies.com.br\n* 💬 **Dúvidas Rápidas?** Se precisar de orientações sobre como embalar ou postar o seu pacote, nos chame diretamente no **[WhatsApp](https://wa.me/5511970797735)** comercial da nossa central. Nossa equipe terá o prazer de guiar o seu atendimento de forma prática e rápida!\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
