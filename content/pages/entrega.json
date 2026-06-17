@@ -2,5 +2,21 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\n**Qual é a forma e o prazo de entrega dos pedidos?** Na Print Supplies, trabalhamos com envios via Correios e diversas transportadoras parceiras para garantir que seu pedido chegue com segurança. Ao final de sua compra, na página de checkout, você poderá escolher a modalidade de envio que preferir. O prazo de entrega e os valores variam de acordo com o seu CEP de destino e o peso da mercadoria. Se tiver qualquer dúvida sobre frete ou prazos, clique no botão e nos chame no WhatsApp!\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    }
+  ]
 }
