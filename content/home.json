@@ -28,24 +28,55 @@
       "sort": null
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Toners e Cartuchos de Alta Performance",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "news",
-      "title": "NOSSOS DESTAQUES DA SEMANA",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.loja.printsupplies.com.br/cartuchos-de-toner",
       "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Economia sem perda de qualidade. Garanta seu estoque hoje!",
-      "description": "Não arrisque seu equipamento. Use suprimentos de alta performance."
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
+      "collection_id": "69c40314a250b502989fb308:categories:Cartuchos de Toner:/cartuchos-de-toner",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Cilindros e Unidades de Fotocondutor (Drum)",
+      "collection_id": "69c40805a250b502989fb7ba:categories:Cilindros (Drum):/cilindros-drum",
+      "sort": "news",
+      "link": "https://www.loja.printsupplies.com.br/cilindros-drum"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Peças para Unidades de Fusão e Rolos",
+      "collection_id": "69c40848a250b502989fb818:categories:Peças de Reposição:/pecas-de-reposicao",
+      "sort": "views",
+      "link": "loja.printsupplies.com.br/pecas-de-reposicao"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Placas Logísticas, Fontes e Motores Técnicos",
+      "collection_id": "69c4036ba250b502989fb35d:categories:Peças e Fotocondutores:/pecas-e-suprimentos",
+      "sort": "news",
+      "link": "loja.printsupplies.com.br/pecas-e-suprimentos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Suprimentos de alta performance para remanufatura e reset.",
+      "collection_id": "69c40834a250b502989fb7fe:categories:Chips:/chips",
+      "sort": "news",
+      "link": "loja.printsupplies.com.br/chips"
     },
     {
       "type": "info-bar",
