@@ -15,7 +15,7 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Compre Cartuchos Online com Melhor Preço | CUPOM: BOASCOMPRAS | FRETE GRÁTIS * consulte",
-    "link": ""
+    "link": "https://www.loja.printsupplies.com.br"
   },
   "alphabetical_order_submenu": true,
   "name_all_departments": "VER TODA LOJA",
@@ -26,19 +26,19 @@
     "pages": [
       {
         "title": "Ver Pedidos",
-        "link": "/app/#/account/orders"
+        "link": "https://www.loja.printsupplies.com.br/app/#/account/orders"
       },
       {
         "title": "Como Comprar",
-        "link": "/pages/faq"
+        "link": "https://www.loja.printsupplies.com.br/pages/faq"
       },
       {
         "title": "A empresa",
-        "link": "pages/contato"
+        "link": "https://www.loja.printsupplies.com.br/pages/contato"
       },
       {
         "title": "Whatsapp Atacado/ Revenda",
-        "link": ""
+        "link": "https://wa.me/5511970797735"
       }
     ],
     "phone_wpp": true,
