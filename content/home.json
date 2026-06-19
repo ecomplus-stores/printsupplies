@@ -40,6 +40,23 @@
       "sort": "news"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cartuchos.png",
+          "link": "https://www.loja.printsupplies.com.br/toner-lexmark"
+        },
+        {
+          "img": "/img/uploads/impressorasprintsupplies.png",
+          "link": "https://www.loja.printsupplies.com.br/impressoras"
+        },
+        {
+          "img": "/img/uploads/tonerlexmark.png",
+          "link": "https://www.loja.printsupplies.com.br/lexmark"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
