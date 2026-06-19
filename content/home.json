@@ -29,17 +29,6 @@
       "sort": null
     },
     {
-      "page": 1,
-      "title": "Toners e Cartuchos de Alta Performance",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://www.loja.printsupplies.com.br/cartuchos-de-toner",
-      "limit": 12,
-      "collection_id": "69c40314a250b502989fb308:categories:Cartuchos de Toner:/cartuchos-de-toner",
-      "sort": "news"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -55,6 +44,17 @@
           "link": "https://www.loja.printsupplies.com.br/lexmark"
         }
       ]
+    },
+    {
+      "page": 1,
+      "title": "Toners e Cartuchos de Alta Performance",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.loja.printsupplies.com.br/cartuchos-de-toner",
+      "limit": 12,
+      "collection_id": "69c40314a250b502989fb308:categories:Cartuchos de Toner:/cartuchos-de-toner",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
