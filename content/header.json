@@ -4,8 +4,8 @@
       "/impressoras?Impressoras",
       "/cartuchos-de-toner?Cartuchos de Toner",
       "/cartuchos-de-tinta?Cartuchos de Tinta",
-      "/recarga-de-impressora?Recarga e Insumos",
-      "/pecas-e-suprimentos?Peças e Fotocondutores",
+      "/recarga-de-impressora?Recarga, Insumos e Peças",
+      "/cartuchos-de-cilindro?Cartuchos de Cilindro",
       "/busque-por-cor?Busque por Cor"
     ],
     "random": 6,
